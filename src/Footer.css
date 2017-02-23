@@ -1,0 +1,11 @@
+.Footer {
+  background-color: yellow;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  color: blue;
+  font-weight: bold;
+}

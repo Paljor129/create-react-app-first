@@ -1,0 +1,28 @@
+.Header1 {
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+  position: fixed;
+}
+.Header-logo {
+  height: 103px;
+  width: 86px;
+  margin-left: 50px;
+}
+.BtnH {
+  margin-right: 80px;
+}
+.btnH{
+  width: 200px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+.BtnH1{
+  width: 200px;
+  height: 50px;
+  background-color: orange;
+  color: white;
+  border: none;
+}
